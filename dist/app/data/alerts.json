@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "alertType": "alert 1",
+    "created": "09/01/2016"
+  },
+  {
+    "id": 2,
+    "alertType": "alert 2",
+    "created": "09/02/2016"
+  },
+  {
+    "id": 3,
+    "alertType": "alert 3",
+    "created": "09/03/2016"
+  },
+  {
+    "id": 4,
+    "alertType": "alert 4",
+    "created": "09/04/2016"
+  }
+]
